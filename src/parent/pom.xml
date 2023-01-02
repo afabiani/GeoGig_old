@@ -137,7 +137,7 @@
     <guava.version>17.0</guava.version>
     <guice.version>3.0</guice.version>
     <jcommander.version>1.35</jcommander.version>
-    <jettison.version>1.0.1</jettison.version> <!-- matches version used in geoserver -->
+    <jettison.version>1.5.2</jettison.version> <!-- matches version used in geoserver -->
     <jline.version>2.11</jline.version>
     <jsr305.version>2.0.3</jsr305.version>
     <jts.version>1.13</jts.version>
